@@ -111,7 +111,7 @@ I use AI to improve productivity while relying on engineering fundamentals, arch
 
 ## 🎯 Recent AI Projects
 
-### 1. 🤖 Groq AI Chat Explorer
+### 1. 🤖 [Groq AI Chat Explorer](https://github.com/rajenderkarra/groq-ai-chat-explorer)
 **Exploring and learning LLM fundamentals with Groq's fast API and OpenAI SDK**
 
 - **Description**: Demonstrates basic LLM interactions using different models available on Groq's platform. Learn how to leverage fast inference engines with familiar APIs.
@@ -123,7 +123,7 @@ I use AI to improve productivity while relying on engineering fundamentals, arch
 - **Technologies**: Python 3.8+, Groq API, OpenAI SDK, python-dotenv
 - **Use Cases**: LLM learning, API integration, prompt engineering fundamentals
 
-### 2. 🌐 Website Summarizer AI
+### 2. 🌐 [Website Summarizer AI](https://github.com/rajenderkarra/website-summarizer-ai)
 **Intelligent web scraper and AI-powered summarizer with web UI**
 
 - **Description**: Extracts website content and generates concise summaries using AI. Demonstrates a practical data pipeline combining web scraping, text processing, and LLM integration.
