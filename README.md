@@ -109,6 +109,35 @@ I use AI to improve productivity while relying on engineering fundamentals, arch
 
 ---
 
+## 🎯 Recent AI Projects
+
+### 1. 🤖 Groq AI Chat Explorer
+**Exploring and learning LLM fundamentals with Groq's fast API and OpenAI SDK**
+
+- **Description**: Demonstrates basic LLM interactions using different models available on Groq's platform. Learn how to leverage fast inference engines with familiar APIs.
+- **Key Features**:
+  - Multiple LLM Models (Llama 3.3, GPT-OSS) on Groq platform
+  - Ultra-fast inference using Groq's API
+  - OpenAI SDK compatible implementation
+  - Clean, beginner-friendly code structure
+- **Technologies**: Python 3.8+, Groq API, OpenAI SDK, python-dotenv
+- **Use Cases**: LLM learning, API integration, prompt engineering fundamentals
+
+### 2. 🌐 Website Summarizer AI
+**Intelligent web scraper and AI-powered summarizer with web UI**
+
+- **Description**: Extracts website content and generates concise summaries using AI. Demonstrates a practical data pipeline combining web scraping, text processing, and LLM integration.
+- **Key Features**:
+  - Web scraping and content extraction
+  - AI-powered summarization using Groq LLMs
+  - Beautiful Gradio web interface
+  - Robust error handling and network resilience
+  - Fast processing with Groq's inference engine
+- **Technologies**: Python 3.8+, BeautifulSoup4, Requests, Gradio, Groq API, python-dotenv
+- **Use Cases**: Content extraction, AI summarization, data pipeline, web UI development
+
+---
+
 ## 🚀 Projects You'll Find Here
 
 This GitHub profile showcases practical, production-inspired projects covering:
