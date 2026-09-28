@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 # Hi there 👋 I'm Rajender Karra
 
-## AI-Augmented Software Engineer
+## AI Engineer
 
-Building scalable, cloud-native enterprise applications with **17+ years** of experience in enterprise software engineering.
+Building scalable, cloud-native enterprise applications with **18+ years** of experience in enterprise software engineering.
 
 ---
 
